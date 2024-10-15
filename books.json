@@ -2,7 +2,8 @@
     {
         "name": "Edexcel AS Level Mathematics Pure",
         "url": "https://www.pearsonactivelearn.com/r00/r0066/r006623/r00662374/current/OPS/images/Pure_Maths_1-{:03d}.jpg",
-        "pages": 408
+        "pages": 408,
+        "start": 9
     },
     {
         "name": "Edexcel AS Level Mathematics Pure SolutionBank",
@@ -142,7 +143,8 @@
     {
         "name": "Edexcel A Level Mathematics Pure",
         "url": "https://www.pearsonactivelearn.com/r00/r0068/r006800/r00680025/current/OPS/images/692597-{:03d}.jpg",
-        "pages": 432
+        "pages": 432,
+        "start": 9
     },
     {
         "name": "Edexcel A Level Mathematics Pure SolutionBank",
@@ -260,7 +262,8 @@
     {
         "name": "Edexcel AS Level Mathematics Statistics and Mechanics",
         "url": "https://www.pearsonactivelearn.com/r00/r0067/r006740/r00674039/current/OPS/images/stats_and_mech_1_combined-{:03d}.jpg",
-        "pages": 240
+        "pages": 240,
+        "start": 9
     },
     {
         "name": "Edexcel AS Level Mathematics Statistics and Mechanics SolutionBank",
@@ -345,7 +348,8 @@
     {
         "name": "Edexcel A Level Mathematics Statistics and Mechanics",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703733/current/OPS/images/New_SM2-{:03d}.jpg",
-        "pages": 216
+        "pages": 216,
+        "start": 9
     },
     {
         "name": "Edexcel A Level Mathematics Statistics and Mechanics SolutionBank",
@@ -413,7 +417,8 @@
     {
         "name": "Edexcel AS Level Further Mathematics Core Pure",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703734/current/OPS/images/CP1-{:03d}.jpg",
-        "pages": 256
+        "pages": 256,
+        "start": 7
     },
     {
         "name": "Edexcel AS Level Further Mathematics Core Pure SolutionBank",
@@ -489,7 +494,8 @@
     {
         "name": "Edexcel A Level Further Mathematics Core Pure",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703741/current/OPS/images/combinepdf-{:03d}.jpg",
-        "pages": 264
+        "pages": 264,
+        "start": 7
     },
     {
         "name": "Edexcel A Level Further Mathematics Core Pure SolutionBank",

@@ -5,6 +5,7 @@ import os
 from PIL import Image
 from io import BytesIO
 from pypdf import PdfWriter
+from pypdf.constants import PageLabelStyle
 
 
 def download_urls(urls) -> list[BytesIO]:
@@ -56,6 +57,14 @@ if "url" in selected_book and "pages" in selected_book:
     # save as a pdf
     images[0].save(file, save_all=True, append_images=images[1:])
     print(f"PDF saved as '{file}'")
+    
+    # rewrite page labels
+    if "start" in selected_book:
+        writer = PdfWriter(file)
+        start_page = int(selected_book["start"])
+        writer.set_page_label(0, start_page - 2, style=PageLabelStyle.LOWERCASE_ROMAN)
+        writer.write(file)
+        print("Page labels rewritten")
 elif "urls" in selected_book:
     # download and merge pdfs
     writer = PdfWriter()
