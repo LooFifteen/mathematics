@@ -2,26 +2,46 @@ import json
 import requests
 import sys
 import os
+import time
 from PIL import Image
 from io import BytesIO
 from pypdf import PdfWriter
 from pypdf.constants import PageLabelStyle
+from concurrent.futures import ThreadPoolExecutor
 
+
+class ProgressBar:
+    def __init__(self, total: int):
+        self.__total = total
+        self.__current = 0
+        self.__start_time = time.time()
+
+    def increment(self):
+        self.__current += 1
+        self.display()
+
+    def display(self):
+        progress = int((self.__current / self.__total) * 100)
+        sys.stdout.write(f"\r\033[K[{('=' * progress).ljust(100)}] {self.__current}/{self.__total} ({time.time() - self.__start_time:.2f}s)")
+        sys.stdout.flush()
+
+
+def download_url(url: str, progress_bar: ProgressBar) -> BytesIO:
+    response = requests.get(url)
+    progress_bar.increment()
+    return BytesIO(response.content)
 
 def download_urls(urls) -> list[BytesIO]:
     total = len(urls)
+    progress_bar = ProgressBar(total)
     data = []
-    for index, url in enumerate(urls, start=1):
-        # display progress bar
-        sys.stdout.write(f"\r\033[Kdownloading {url}\n")
-        progress = int((index / total) * 100)
-        sys.stdout.write("[" + "=" * progress + " " * (100 - progress) + f"] {index}/{total}")
-        sys.stdout.flush()
-        
-        # download data
-        response = requests.get(url)
-        data.append(BytesIO(response.content))
+
+    with ThreadPoolExecutor() as executor:
+        futures = [executor.submit(download_url, url, progress_bar) for url in urls]
+        for future in futures:
+            data.append(future.result())
     print()
+
     return data
 
 
