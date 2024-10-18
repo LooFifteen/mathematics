@@ -1,3 +1,5 @@
 pillow
 requests
 pypdf
+python-magic
+img2pdf
