@@ -561,15 +561,51 @@
         ]
     },
     {
-        "name": "Edexcel AS and A Level Further Mechanics 1",
+        "name": "Edexcel AS and A Level Further Decision 1 ActiveBook",
+        "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703735/current/OPS/images/DM1-{:03d}.jpg",
+        "pages": 344,
+        "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Mechanics 1 ActiveBook",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703736/current/OPS/images/FM1-{:03d}.jpg",
         "pages": 152,
         "start": 7
     },
     {
-        "name": "Edexcel AS and A Level Further Pure 1",
+        "name": "Edexcel AS and A Level Further Statistics 1 ActiveBook",
+        "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703737/current/OPS/images/FS1-{:03d}.jpg",
+        "pages": 224,
+        "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Pure 1 ActiveBook",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703738/current/OPS/images/pdfjoiner_(4)-{:03d}.jpg",
         "pages": 248,
+        "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Statistics 2 ActiveBook",
+        "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703739/current/OPS/images/Further_Statistics-{:03d}.jpg",
+        "pages": 264,
+        "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Mechanics 2 ActiveBook",
+        "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703740/current/OPS/images/FurtherMechanics2-{:03d}.jpg",
+        "pages": 256,
+        "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Pure 2 ActiveBook",
+        "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703742/current/OPS/images/Futher-Pure-2-{:03d}.jpg",
+        "pages": 272,
+        "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Decision 2 ActiveBook",
+        "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703743/current/OPS/images/Decision_2_Updated-{:03d}.jpg",
+        "pages": 336,
         "start": 7
     }
 ]
