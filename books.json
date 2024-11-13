@@ -559,5 +559,17 @@
             "https://activeteach-prod.resource.pearson-intl.com/r00/r0078/r007868/r00786841/current/alevelsb_cp2_prac1.pdf",
             "https://activeteach-prod.resource.pearson-intl.com/r00/r0078/r007868/r00786842/current/alevelsb_cp2_prac2.pdf"
         ]
+    },
+    {
+        "name": "Edexcel AS and A Level Further Mechanics 1",
+        "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703736/current/OPS/images/FM1-{:03d}.jpg",
+        "pages": 152,
+        "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Pure 1",
+        "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703738/current/OPS/images/pdfjoiner_(4)-{:03d}.jpg",
+        "pages": 248,
+        "start": 7
     }
 ]
