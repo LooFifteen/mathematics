@@ -561,63 +561,93 @@
         ]
     },
     {
-        "name": "Edexcel AS and A Level Further Decision 1 ActiveBook",
+        "name": "Edexcel AS and A Level Further Decision 1",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703735/current/OPS/images/DM1-{:03d}.jpg",
         "pages": 344,
         "start": 7
     },
     {
-        "name": "Edexcel AS and A Level Further Mechanics 1 ActiveBook",
+        "name": "Edexcel AS and A Level Further Mechanics 1",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703736/current/OPS/images/FM1-{:03d}.jpg",
         "pages": 152,
         "start": 7
     },
     {
-        "name": "Edexcel AS and A Level Further Statistics 1 ActiveBook",
+        "name": "Edexcel AS and A Level Further Statistics 1",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703737/current/OPS/images/FS1-{:03d}.jpg",
         "pages": 224,
         "start": 7
     },
     {
-        "name": "Edexcel AS and A Level Further Pure 1 ActiveBook",
+        "name": "Edexcel AS and A Level Further Pure 1",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703738/current/OPS/images/pdfjoiner_(4)-{:03d}.jpg",
         "pages": 248,
         "start": 7
     },
     {
-        "name": "Edexcel AS and A Level Further Statistics 2 ActiveBook",
+        "name": "Edexcel AS and A Level Further Statistics 2",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703739/current/OPS/images/Further_Statistics-{:03d}.jpg",
         "pages": 264,
         "start": 7
     },
     {
-        "name": "Edexcel AS and A Level Further Mechanics 2 ActiveBook",
+        "name": "Edexcel AS and A Level Further Mechanics 2",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703740/current/OPS/images/FurtherMechanics2-{:03d}.jpg",
         "pages": 256,
         "start": 7
     },
     {
-        "name": "Edexcel AS and A Level Further Pure 2 ActiveBook",
+        "name": "Edexcel AS and A Level Further Pure 2",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703742/current/OPS/images/Futher-Pure-2-{:03d}.jpg",
         "pages": 272,
         "start": 7
     },
     {
-        "name": "Edexcel AS and A Level Further Decision 2 ActiveBook",
+        "name": "Edexcel AS and A Level Further Decision 2",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703743/current/OPS/images/Decision_2_Updated-{:03d}.jpg",
         "pages": 336,
         "start": 7
     },
     {
-        "name": "Edexcel GCSE Foundation ActiveBook",
+        "name": "Edexcel GCSE Foundation",
         "url": "https://www.pearsonactivelearn.com/r00/r0037/r003755/r00375574/current/OPS/images/Foundation_full_book-{:03d}.jpg",
         "pages": 712,
         "start": 9
     },
     {
-        "name": "Edexcel GCSE Higher ActiveBook",
+        "name": "Edexcel GCSE Higher",
         "url": "https://www.pearsonactivelearn.com/r00/r0037/r003755/r00375575/current/OPS/images/Higher_full_book-{:03d}.jpg",
         "pages": 726,
         "start": 9
+    },
+    {
+        "name": "Edexcel AS Level Physics",
+        "url": "https://www.pearsonactivelearn.com/r00/r0041/r004103/r00410395/current/OPS/images/9781447991182_EDEXALPHYSBK1_Refinery-{:03d}.jpg",
+        "pages": 224
+    },
+    {
+        "name": "Edexcel A Level Physics",
+        "url": "https://www.pearsonactivelearn.com/r00/r0041/r004103/r00410396/current/OPS/images/edexcel_physics_sb2_full-{:03d}.jpg",
+        "pages": 240
+    },
+    {
+        "name": "Edexcel AS Level Chemistry",
+        "url": "https://www.pearsonactivelearn.com/r00/r0041/r004103/r00410393/current/OPS/images/EALC_SB_ALL_refinery-{:03d}.jpg",
+        "pages": 300
+    },
+    {
+        "name": "Edexcel A Level Chemistry",
+        "url": "https://www.pearsonactivelearn.com/r00/r0041/r004103/r00410394/current/OPS/images/edexcel_chem_ab2_all-{:03d}.jpg",
+        "pages": 268
+    },
+    {
+        "name": "Edexcel AS Level Biology",
+        "url": "https://www.pearsonactivelearn.com/r00/r0041/r004103/r00410391/current/OPS/images/9781447991144_EDEXALBIOBK1_Refinery-{:03d}.jpg",
+        "pages": 318
+    },
+    {
+        "name": "Edexcel A Level Biology",
+        "url": "https://www.pearsonactivelearn.com/r00/r0041/r004103/r00410392/current/OPS/images/edexcel_bio_sb2_all-{:03d}.jpg",
+        "pages": 328
     }
 ]
