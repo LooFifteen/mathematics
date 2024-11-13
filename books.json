@@ -567,10 +567,140 @@
         "start": 7
     },
     {
+        "name": "Edexcel AS and A Level Further Decision 1 SolutionBank",
+        "urls": [
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725711/current/alevelsb_dm1_ex1a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725712/current/alevelsb_dm1_ex1b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725713/current/alevelsb_dm1_ex1c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725714/current/alevelsb_dm1_ex1d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725715/current/alevelsb_dm1_ex1e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725716/current/alevelsb_dm1_ex1f.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725717/current/alevelsb_dm1_ex1mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725718/current/alevelsb_dm1_ex2a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725719/current/alevelsb_dm1_ex2b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725720/current/alevelsb_dm1_ex2c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725721/current/alevelsb_dm1_ex2d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725722/current/alevelsb_dm1_ex2e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725723/current/alevelsb_dm1_ex2mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725724/current/alevelsb_dm1_ex3a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725725/current/alevelsb_dm1_ex3b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725726/current/alevelsb_dm1_ex3c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725727/current/alevelsb_dm1_ex3d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725728/current/alevelsb_dm1_ex3e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725729/current/alevelsb_dm1_ex3mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725730/current/alevelsb_dm1_ex4a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725731/current/alevelsb_dm1_ex4b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725732/current/alevelsb_dm1_ex4c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725733/current/alevelsb_dm1_ex4mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725734/current/alevelsb_dm1_ex5a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725735/current/alevelsb_dm1_ex5b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725736/current/alevelsb_dm1_ex5c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725737/current/alevelsb_dm1_ex5d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725738/current/alevelsb_dm1_ex5mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725740/current/alevelsb_dm1_ex6a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725741/current/alevelsb_dm1_ex6b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725742/current/alevelsb_dm1_ex6c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765589/current/alevelsb_dm1_ex6d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725743/current/alevelsb_dm1_ex6mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725744/current/alevelsb_dm1_ex7a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725745/current/alevelsb_dm1_ex7b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725746/current/alevelsb_dm1_ex7c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725747/current/alevelsb_dm1_ex7d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725748/current/alevelsb_dm1_ex7e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725749/current/alevelsb_dm1_ex7mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725750/current/alevelsb_dm1_ex8a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725751/current/alevelsb_dm1_ex8b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725752/current/alevelsb_dm1_ex8c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725753/current/alevelsb_dm1_ex8d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725754/current/alevelsb_dm1_ex8e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725755/current/alevelsb_dm1_ex8f.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725756/current/alevelsb_dm1_ex8g.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725757/current/alevelsb_dm1_ex8h.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725758/current/alevelsb_dm1_ex8i.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725759/current/alevelsb_dm1_ex8mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725739/current/alevelsb_dm1_revex1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725760/current/alevelsb_dm1_revex2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725761/current/alevelsb_dm1_pracAS.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765590/current/alevelsb_dm1_pracA.pdf"
+        ]
+    },
+    {
+        "name": "Edexcel AS and A Level Further Decision 1 Answer Templates",
+        "urls": [
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763121/current/alevelat_d1_ex3d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763122/current/alevelat_d1_ex3e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763120/current/alevelat_d1_ex3c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763123/current/alevelat_d1_ex3mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763125/current/alevelat_d1_ex4c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763124/current/alevelat_d1_ex4b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763126/current/alevelat_d1_ex4mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763127/current/alevelat_d1_ex5a.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763128/current/alevelat_d1_ex8c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763129/current/alevelat_d1_ex8d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763130/current/alevelat_d1_ex8mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763133/current/alevelat_d1_re1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763134/current/alevelat_d1_re2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763132/current/alevelat_d1_exam_as.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763131/current/alevelat_d1_exam_al.pdf"
+        ]
+    },
+    {
         "name": "Edexcel AS and A Level Further Mechanics 1",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703736/current/OPS/images/FM1-{:03d}.jpg",
         "pages": 152,
         "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Mechanics 1 SolutionBank",
+        "urls": [
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725762/current/alevelsb_fm1_ex1a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725763/current/alevelsb_fm1_ex1b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725764/current/alevelsb_fm1_ex1c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725765/current/alevelsb_fm1_ex1mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725766/current/alevelsb_fm1_ex2a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725767/current/alevelsb_fm1_ex2b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725768/current/alevelsb_fm1_ex2c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725769/current/alevelsb_fm1_ex2d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725770/current/alevelsb_fm1_ex2mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725771/current/alevelsb_fm1_ex3a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725772/current/alevelsb_fm1_ex3b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725773/current/alevelsb_fm1_ex3c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725774/current/alevelsb_fm1_ex3d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725775/current/alevelsb_fm1_ex3mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725777/current/alevelsb_fm1_ex4a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725778/current/alevelsb_fm1_ex4b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725779/current/alevelsb_fm1_ex4c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725780/current/alevelsb_fm1_ex4d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725781/current/alevelsb_fm1_ex4mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725782/current/alevelsb_fm1_ex5a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725783/current/alevelsb_fm1_ex5b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725784/current/alevelsb_fm1_ex5c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725785/current/alevelsb_fm1_ex5mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725776/current/alevelsb_fm1_revex1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725786/current/alevelsb_fm1_revex2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007257/r00725787/current/alevelsb_fm1_pracAS.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765592/current/alevelsb_fm1_pracA.pdf"
+        ]
     },
     {
         "name": "Edexcel AS and A Level Further Statistics 1",
@@ -579,10 +709,137 @@
         "start": 7
     },
     {
+        "name": "Edexcel AS and A Level Further Statistics 1 SolutionBank",
+        "urls": [
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723017/current/alevelsb_fs1_ex1a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723018/current/alevelsb_fs1_ex1b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723019/current/alevelsb_fs1_ex1c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723020/current/alevelsb_fs1_ex1d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723021/current/alevelsb_fs1_ex1mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723022/current/alevelsb_fs1_ex2a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723023/current/alevelsb_fs1_ex2b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723024/current/alevelsb_fs1_ex2c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723025/current/alevelsb_fs1_ex2d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723026/current/alevelsb_fs1_ex2e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723027/current/alevelsb_fs1_ex2f.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723028/current/alevelsb_fs1_ex2g.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723029/current/alevelsb_fs1_ex2mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723030/current/alevelsb_fs1_ex3a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723031/current/alevelsb_fs1_ex3b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723032/current/alevelsb_fs1_ex3c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723033/current/alevelsb_fs1_ex3d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723034/current/alevelsb_fs1_ex3mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723038/current/alevelsb_fs1_ex4a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723039/current/alevelsb_fs1_ex4b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723040/current/alevelsb_fs1_ex4c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723041/current/alevelsb_fs1_ex4d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723042/current/alevelsb_fs1_ex4mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723035/current/alevelsb_fs1_ex5a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723036/current/alevelsb_fs1_ex5b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723037/current/alevelsb_fs1_ex5mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723044/current/alevelsb_fs1_ex6a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723045/current/alevelsb_fs1_ex6b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723046/current/alevelsb_fs1_ex6c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723047/current/alevelsb_fs1_ex6d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723048/current/alevelsb_fs1_ex6e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723049/current/alevelsb_fs1_ex6f.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723050/current/alevelsb_fs1_ex6mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723051/current/alevelsb_fs1_ex7a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723052/current/alevelsb_fs1_ex7b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723053/current/alevelsb_fs1_ex7c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723054/current/alevelsb_fs1_ex7d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723055/current/alevelsb_fs1_ex7mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723056/current/alevelsb_fs1_ex8a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723057/current/alevelsb_fs1_ex8b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723058/current/alevelsb_fs1_ex8c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723059/current/alevelsb_fs1_ex8d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723060/current/alevelsb_fs1_ex8mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723043/current/alevelsb_fs1_revex1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723061/current/alevelsb_fs1_revex2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0072/r007230/r00723062/current/alevelsb_fs1_prac.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765591/current/alevelsb_fs1_alevprac.pdf"
+        ]
+    },
+    {
         "name": "Edexcel AS and A Level Further Pure 1",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703738/current/OPS/images/pdfjoiner_(4)-{:03d}.jpg",
         "pages": 248,
         "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Pure 1 SolutionBank",
+        "urls": [
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765593/current/alevelsb_fp1_ex1a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765594/current/alevelsb_fp1_ex1b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765595/current/alevelsb_fp1_ex1c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765596/current/alevelsb_fp1_ex1d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765597/current/alevelsb_fp1_ex1e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765598/current/alevelsb_fp1_ex1mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007655/r00765599/current/alevelsb_fp1_ex2a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765600/current/alevelsb_fp1_ex2b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765601/current/alevelsb_fp1_ex2c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765602/current/alevelsb_fp1_ex2d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765603/current/alevelsb_fp1_ex2e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765604/current/alevelsb_fp1_ex2f.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765605/current/alevelsb_fp1_ex2g.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765606/current/alevelsb_fp1_ex2mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765607/current/alevelsb_fp1_ex3a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765608/current/alevelsb_fp1_ex3b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765609/current/alevelsb_fp1_ex3c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765610/current/alevelsb_fp1_ex3d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765611/current/alevelsb_fp1_ex3e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765612/current/alevelsb_fp1_ex3f.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765613/current/alevelsb_fp1_ex3mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765614/current/alevelsb_fp1_ex4a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765615/current/alevelsb_fp1_ex4b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765616/current/alevelsb_fp1_ex4c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765617/current/alevelsb_fp1_ex4mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765618/current/alevelsb_fp1_ex5a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765619/current/alevelsb_fp1_ex5b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765620/current/alevelsb_fp1_ex5c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765621/current/alevelsb_fp1_ex5d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765622/current/alevelsb_fp1_ex5mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765624/current/alevelsb_fp1_ex6a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765625/current/alevelsb_fp1_ex6b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765626/current/alevelsb_fp1_ex6c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765627/current/alevelsb_fp1_ex6mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765628/current/alevelsb_fp1_ex7a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765629/current/alevelsb_fp1_ex7b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765630/current/alevelsb_fp1_ex7c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765631/current/alevelsb_fp1_ex7mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765632/current/alevelsb_fp1_ex8a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765633/current/alevelsb_fp1_ex8b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765634/current/alevelsb_fp1_ex8c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765635/current/alevelsb_fp1_ex8d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765636/current/alevelsb_fp1_ex8mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765637/current/alevelsb_fp1_ex9a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765638/current/alevelsb_fp1_ex9b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765639/current/alevelsb_fp1_ex9c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765640/current/alevelsb_fp1_ex9mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765623/current/alevelsb_fp1_revex1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765641/current/alevelsb_fp1_revex2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765642/current/alevelsb_fp1_prac_aslevel.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007656/r00765643/current/alevelsb_fp1_alevprac.pdf"
+        ]
     },
     {
         "name": "Edexcel AS and A Level Further Statistics 2",
@@ -591,10 +848,105 @@
         "start": 7
     },
     {
+        "name": "Edexcel AS and A Level Further Statistics 2 SolutionBank",
+        "urls": [
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831293/current/alevelsb_fs2_ex1a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831294/current/alevelsb_fs2_ex1b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831295/current/alevelsb_fs2_ex1c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831296/current/alevelsb_fs2_ex1mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831297/current/alevelsb_fs2_ex2a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831298/current/alevelsb_fs2_ex2b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831299/current/alevelsb_fs2_ex2c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831300/current/alevelsb_fs2_ex2mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831301/current/alevelsb_fs2_ex3a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831302/current/alevelsb_fs2_ex3b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831303/current/alevelsb_fs2_ex3c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831304/current/alevelsb_fs2_ex3d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831305/current/alevelsb_fs2_ex3e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831306/current/alevelsb_fs2_ex3f.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831307/current/alevelsb_fs2_ex3mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831308/current/alevelsb_fs2_ex4a.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831310/current/alevelsb_fs2_ex5a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831311/current/alevelsb_fs2_ex5b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831312/current/alevelsb_fs2_ex5c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831313/current/alevelsb_fs2_ex5d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831314/current/alevelsb_fs2_ex5mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831315/current/alevelsb_fs2_ex6a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831316/current/alevelsb_fs2_ex6b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831317/current/alevelsb_fs2_ex6c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831318/current/alevelsb_fs2_ex6d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831319/current/alevelsb_fs2_ex6mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831320/current/alevelsb_fs2_ex7a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831321/current/alevelsb_fs2_ex7b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831322/current/alevelsb_fs2_ex7c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831323/current/alevelsb_fs2_ex7d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831324/current/alevelsb_fs2_ex7e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831325/current/alevelsb_fs2_ex7mix.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831309/current/alevelsb_fs2_revex1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831326/current/alevelsb_fs2_revex2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831327/current/alevelsb_fs2_pp1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008313/r00831328/current/alevelsb_fs2_pp2.pdf"
+        ]
+    },
+    {
         "name": "Edexcel AS and A Level Further Mechanics 2",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703740/current/OPS/images/FurtherMechanics2-{:03d}.jpg",
         "pages": 256,
         "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Mechanics 2 SolutionBank",
+        "urls": [
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804831/current/alevelsb_fm2_ex1a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804832/current/alevelsb_fm2_ex1b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804833/current/alevelsb_fm2_ex1c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804834/current/alevelsb_fm2_ex1d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804835/current/alevelsb_fm2_ex1e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804836/current/alevelsb_fm2_mex1.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804837/current/alevelsb_fm2_ex2a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804838/current/alevelsb_fm2_ex2b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804839/current/alevelsb_fm2_ex2c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804840/current/alevelsb_fm2_ex2d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804841/current/alevelsb_fm2_ex2e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804842/current/alevelsb_fm2_ex2f.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804843/current/alevelsb_fm2_ex2g.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804844/current/alevelsb_fm2_ex2h.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804845/current/alevelsb_fm2_mex2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804846/current/alevelsb_fm2_ex3a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804847/current/alevelsb_fm2_ex3b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804848/current/alevelsb_fm2_ex3c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804849/current/alevelsb_fm2_ex3d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804850/current/alevelsb_fm2_ex3e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804851/current/alevelsb_fm2_mex3.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804853/current/alevelsb_fm2_ex4a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804854/current/alevelsb_fm2_ex4b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804855/current/alevelsb_fm2_ex4c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804856/current/alevelsb_fm2_mex4.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804857/current/alevelsb_fm2_ex5a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804858/current/alevelsb_fm2_ex5b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804859/current/alevelsb_fm2_ex5c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804860/current/alevelsb_fm2_ex5d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804861/current/alevelsb_fm2_ex5e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804862/current/alevelsb_fm2_mex5.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804852/current/alevelsb_fm2_rex1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804863/current/alevelsb_fm2_rex2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804864/current/alevelsb_fm2_expaper_as.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0080/r008048/r00804865/current/alevelsb_fm2_expaper_a.pdf"
+        ]
     },
     {
         "name": "Edexcel AS and A Level Further Pure 2",
@@ -603,10 +955,128 @@
         "start": 7
     },
     {
+        "name": "Edexcel AS and A Level Further Pure 2 SolutionBank",
+        "urls": [
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846803/current/alevelsb_fp2_ex1a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846804/current/alevelsb_fp2_ex1b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846805/current/alevelsb_fp2_ex1c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846806/current/alevelsb_fp2_ex1d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846807/current/alevelsb_fp2_ex1e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846808/current/alevelsb_fp2_ex1f.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846809/current/alevelsb_fp2_ex1g.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846810/current/alevelsb_fp2_mx1.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846811/current/alevelsb_fp2_ex2a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846812/current/alevelsb_fp2_ex2b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846813/current/alevelsb_fp2_ex2c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846814/current/alevelsb_fp2_ex2d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846815/current/alevelsb_fp2_mx2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846816/current/alevelsb_fp2_ex3a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846817/current/alevelsb_fp2_ex3b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846818/current/alevelsb_fp2_ex3c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846819/current/alevelsb_fp2_mx3.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846821/current/alevelsb_fp2_ex4a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846822/current/alevelsb_fp2_ex4b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846823/current/alevelsb_fp2_ex4c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846824/current/alevelsb_fp2_ex4d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846825/current/alevelsb_fp2_mx4.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846826/current/alevelsb_fp2_ex5a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846827/current/alevelsb_fp2_ex5b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846828/current/alevelsb_fp2_ex5c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846829/current/alevelsb_fp2_ex5d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846830/current/alevelsb_fp2_mx5.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846831/current/alevelsb_fp2_ex6a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846832/current/alevelsb_fp2_ex6b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846833/current/alevelsb_fp2_ex6c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846834/current/alevelsb_fp2_mx6.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846820/current/alevelsb_fp2_rx1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846835/current/alevelsb_fp2_rx2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846836/current/alevelsb_fp2_pps_as.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0084/r008468/r00846837/current/alevelsb_fp2_pps_a.pdf"
+        ]
+    },
+    {
         "name": "Edexcel AS and A Level Further Decision 2",
         "url": "https://www.pearsonactivelearn.com/r00/r0070/r007037/r00703743/current/OPS/images/Decision_2_Updated-{:03d}.jpg",
         "pages": 336,
         "start": 7
+    },
+    {
+        "name": "Edexcel AS and A Level Further Decision 2 SolutionBank",
+        "urls": [
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828932/current/alevelsb_d2_ex1a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828933/current/alevelsb_d2_ex1b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828934/current/alevelsb_d2_ex1c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828935/current/alevelsb_d2_ex1d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828936/current/alevelsb_d2_ex1e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828937/current/alevelsb_d2_mex1.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828938/current/alevelsb_d2_ex2a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828939/current/alevelsb_d2_ex2b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828940/current/alevelsb_d2_ex2c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828941/current/alevelsb_d2_ex2d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828942/current/alevelsb_d2_ex2e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828943/current/alevelsb_d2_mex2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828944/current/alevelsb_d2_ex3a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828945/current/alevelsb_d2_ex3b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828946/current/alevelsb_d2_ex3c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828947/current/alevelsb_d2_ex3d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828948/current/alevelsb_d2_ex3e.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828949/current/alevelsb_d2_mex3.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828950/current/alevelsb_d2_ex4a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828951/current/alevelsb_d2_ex4b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828952/current/alevelsb_d2_ex4c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828953/current/alevelsb_d2_mex4.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828955/current/alevelsb_d2_ex5a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828956/current/alevelsb_d2_ex5b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828957/current/alevelsb_d2_ex5c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828958/current/alevelsb_d2_mex5.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828959/current/alevelsb_d2_ex6a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828960/current/alevelsb_d2_ex6b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828961/current/alevelsb_d2_ex6c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828962/current/alevelsb_d2_ex6d.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828963/current/alevelsb_d2_mex6.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828964/current/alevelsb_d2_ex7a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828965/current/alevelsb_d2_ex7b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828966/current/alevelsb_d2_ex7c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828967/current/alevelsb_d2_mex7.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828968/current/alevelsb_d2_ex8a.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828969/current/alevelsb_d2_ex8b.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828970/current/alevelsb_d2_mex8.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828954/current/alevelsb_d2_rex1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828971/current/alevelsb_d2_rex2.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828972/current/alevelsb_d2_pexp1.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0082/r008289/r00828973/current/alevelsb_d2_pexp2.pdf"
+        ]
+    },
+    {
+        "name": "Edexcel AS and A Level Further Decision 2 Answer Templates",
+        "urls": [
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831269/current/alevelsb_d2_ex3a_answertemplate.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831270/current/alevelsb_d2_ex3c_answertemplate.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831271/current/alevelsb_d2_ex3d_answertemplate.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831272/current/alevelsb_d2_ex3e_answertemplate.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831273/current/alevelsb_d2_ex3_mixed_answertemplate.pdf",
+
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0076/r007631/r00763125/current/alevelat_d1_ex4c.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831275/current/alevelsb_d2_ex4b_answertemplate.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831276/current/alevelsb_d2_ex4c_answertemplate.pdf",
+            "https://activeteach-prod.resource.pearson-intl.com/r00/r0083/r008312/r00831277/current/alevelsb_d2_ex4_mixed_answertemplate.pdf"
+        ]
     },
     {
         "name": "Edexcel GCSE Foundation",
